@@ -1,0 +1,10 @@
+/dataset/
+/experiments*/
+__pycache__/
+weights/*
+/configs*/
+*.ipynb
+/result/
+/results/
+/wandb/
+**/.DS_Store
